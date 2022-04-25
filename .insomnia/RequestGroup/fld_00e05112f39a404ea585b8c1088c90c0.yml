@@ -1,0 +1,10 @@
+_id: fld_00e05112f39a404ea585b8c1088c90c0
+type: RequestGroup
+parentId: wrk_7c1b00221a294f23be58a9c6d4161082
+modified: 1650776890093
+created: 1650774369868
+name: TipoArchivo
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1650774369868

@@ -1,0 +1,29 @@
+_id: req_524fb6d826814c38864ed7a5dbe704ed
+type: Request
+parentId: fld_e43340df561e489ca118f69305ad1b54
+modified: 1650839101279
+created: 1650839082574
+url: "{{ _.baseUrl }}/promocion/1"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "sucursal 6"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_06364d65be5b479a9416495ac403ecc3
+authentication: {}
+metaSortKey: -1648256780941
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_b6d57ac244f042aaaed41ef71dc4a0f3
+type: Request
+parentId: fld_e43340df561e489ca118f69305ad1b54
+modified: 1650839098870
+created: 1650839082572
+url: "{{ _.baseUrl }}/promocion/1"
+name: show
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1648256780966
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

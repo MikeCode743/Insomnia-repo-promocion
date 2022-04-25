@@ -1,0 +1,21 @@
+_id: req_4c58aa4275364fd59ad7bf30bfad6989
+type: Request
+parentId: fld_52e56957de5747199cbd4d200e526145
+modified: 1650778447188
+created: 1650776900199
+url: "{{ _.baseUrl }}/tipoaviso/3"
+name: show
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1648256780966
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

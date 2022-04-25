@@ -1,0 +1,29 @@
+_id: req_04154245c4664f468b6a945bd3903815
+type: Request
+parentId: fld_00e05112f39a404ea585b8c1088c90c0
+modified: 1650777823352
+created: 1650777531119
+url: "{{ _.baseUrl }}/tipoarchivos/2"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Tipo Archivo 10"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_06364d65be5b479a9416495ac403ecc3
+authentication: {}
+metaSortKey: -1648256780866
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

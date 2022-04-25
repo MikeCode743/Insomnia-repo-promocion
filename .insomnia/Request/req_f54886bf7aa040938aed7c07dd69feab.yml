@@ -1,0 +1,26 @@
+_id: req_f54886bf7aa040938aed7c07dd69feab
+type: Request
+parentId: fld_e43340df561e489ca118f69305ad1b54
+modified: 1650839090930
+created: 1650839082568
+url: "{{ _.baseUrl }}/promocion/"
+name: index
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a4bbab809e6a43afb2b950d4540dbeb3
+    name: completo
+    value: "1"
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1648256781066
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_6d26c0c4218c409280b4e3fe24ecbd5c
+type: Request
+parentId: fld_52e56957de5747199cbd4d200e526145
+modified: 1650778452479
+created: 1650776900205
+url: "{{ _.baseUrl }}/tipoaviso/3"
+name: delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1648256780916
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

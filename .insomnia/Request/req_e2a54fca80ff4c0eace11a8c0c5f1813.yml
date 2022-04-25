@@ -1,0 +1,29 @@
+_id: req_e2a54fca80ff4c0eace11a8c0c5f1813
+type: Request
+parentId: fld_09daef625ec44650940c312127c5cf23
+modified: 1650835707249
+created: 1650831830181
+url: "{{ _.baseUrl }}/establecimiento"
+name: store
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Establecimiento 4"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5702570b87414e338c237b61db58e08d
+authentication: {}
+metaSortKey: -1648256781016
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

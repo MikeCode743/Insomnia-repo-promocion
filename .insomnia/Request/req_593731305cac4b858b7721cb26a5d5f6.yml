@@ -1,0 +1,29 @@
+_id: req_593731305cac4b858b7721cb26a5d5f6
+type: Request
+parentId: fld_192df8ac4bd648d2a6c6750254a06a33
+modified: 1650867025854
+created: 1650861067314
+url: "{{ _.baseUrl }}/contacto"
+name: store
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Tipo contacto 2"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5702570b87414e338c237b61db58e08d
+authentication: {}
+metaSortKey: -1648256781016
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

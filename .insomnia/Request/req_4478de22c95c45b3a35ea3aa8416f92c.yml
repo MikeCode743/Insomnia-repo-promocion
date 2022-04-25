@@ -1,0 +1,25 @@
+_id: req_4478de22c95c45b3a35ea3aa8416f92c
+type: Request
+parentId: fld_09daef625ec44650940c312127c5cf23
+modified: 1650858084699
+created: 1650831830179
+url: "{{ _.baseUrl }}/establecimiento"
+name: index
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_f061866b04d94e2b81d6f6b0def7f635
+    name: completo
+    value: "1"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1648256781066
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

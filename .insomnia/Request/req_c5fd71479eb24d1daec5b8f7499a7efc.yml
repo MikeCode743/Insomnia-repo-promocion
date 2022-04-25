@@ -1,0 +1,29 @@
+_id: req_c5fd71479eb24d1daec5b8f7499a7efc
+type: Request
+parentId: fld_192df8ac4bd648d2a6c6750254a06a33
+modified: 1650861086460
+created: 1650861067318
+url: "{{ _.baseUrl }}/contacto/2"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Tipo Archivo 10"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_06364d65be5b479a9416495ac403ecc3
+authentication: {}
+metaSortKey: -1648256780866
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

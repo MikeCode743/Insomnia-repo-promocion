@@ -1,0 +1,21 @@
+_id: req_1356d64009ae4970bc2a7c52df01f1db
+type: Request
+parentId: fld_192df8ac4bd648d2a6c6750254a06a33
+modified: 1650861084357
+created: 1650861067317
+url: "{{ _.baseUrl }}/contacto/3"
+name: delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1648256780916
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

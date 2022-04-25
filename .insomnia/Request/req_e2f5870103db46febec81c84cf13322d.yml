@@ -1,0 +1,21 @@
+_id: req_e2f5870103db46febec81c84cf13322d
+type: Request
+parentId: fld_7699abd41c54458d9bc26831d6fb052e
+modified: 1650836483089
+created: 1650835998566
+url: "{{ _.baseUrl }}/sucursal/1"
+name: show
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1648256780966
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

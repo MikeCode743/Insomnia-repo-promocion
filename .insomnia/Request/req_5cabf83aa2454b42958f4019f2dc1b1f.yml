@@ -1,0 +1,21 @@
+_id: req_5cabf83aa2454b42958f4019f2dc1b1f
+type: Request
+parentId: fld_09daef625ec44650940c312127c5cf23
+modified: 1650835713268
+created: 1650831830182
+url: "{{ _.baseUrl }}/establecimiento/4"
+name: show
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1648256780966
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

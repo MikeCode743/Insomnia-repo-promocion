@@ -1,0 +1,26 @@
+_id: req_f96b87a7eab14741b3c5ebc04e694d64
+type: Request
+parentId: fld_d518cd311cc34bde9ac928176d743364
+modified: 1650861075919
+created: 1650858082356
+url: "{{ _.baseUrl }}/contacto/"
+name: index
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a4bbab809e6a43afb2b950d4540dbeb3
+    name: completo
+    value: "1"
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1648256781066
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,26 @@
+_id: req_fb0e27867d84438480dc32703e0071cf
+type: Request
+parentId: fld_7699abd41c54458d9bc26831d6fb052e
+modified: 1650838494644
+created: 1650835998563
+url: "{{ _.baseUrl }}/sucursal/"
+name: index
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a4bbab809e6a43afb2b950d4540dbeb3
+    name: completo
+    value: "1"
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1648256781066
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_811f2c9b61d342729c03ac7be8527978
+type: Request
+parentId: fld_192df8ac4bd648d2a6c6750254a06a33
+modified: 1650861107683
+created: 1650861067313
+url: "{{ _.baseUrl }}/contacto"
+name: index
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1648256781066
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

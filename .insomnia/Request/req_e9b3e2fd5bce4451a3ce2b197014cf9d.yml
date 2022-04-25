@@ -1,0 +1,30 @@
+_id: req_e9b3e2fd5bce4451a3ce2b197014cf9d
+type: Request
+parentId: fld_52e56957de5747199cbd4d200e526145
+modified: 1650828118120
+created: 1650777851963
+url: "{{ _.baseUrl }}/tipoaviso/4"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Tipo aviso 4",
+    	"activo": false
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_06364d65be5b479a9416495ac403ecc3
+authentication: {}
+metaSortKey: -1648256780941
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

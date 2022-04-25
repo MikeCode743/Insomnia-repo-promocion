@@ -1,0 +1,29 @@
+_id: req_4787f53b878b42c6beaee50f65155fde
+type: Request
+parentId: fld_7699abd41c54458d9bc26831d6fb052e
+modified: 1650836816260
+created: 1650835998567
+url: "{{ _.baseUrl }}/sucursal/1"
+name: delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"activo": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6f889e180c2c43aca38162a2d90ed2f6
+authentication: {}
+metaSortKey: -1648256780916
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

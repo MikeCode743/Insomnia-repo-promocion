@@ -1,0 +1,29 @@
+_id: req_ac4c5f7ade8b47a29f1aed0a4289df27
+type: Request
+parentId: fld_09daef625ec44650940c312127c5cf23
+modified: 1650835721115
+created: 1650831830184
+url: "{{ _.baseUrl }}/establecimiento/6"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Establecimiento 6"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_06364d65be5b479a9416495ac403ecc3
+authentication: {}
+metaSortKey: -1648256780941
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

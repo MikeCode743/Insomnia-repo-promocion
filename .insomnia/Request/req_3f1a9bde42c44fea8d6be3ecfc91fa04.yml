@@ -1,0 +1,21 @@
+_id: req_3f1a9bde42c44fea8d6be3ecfc91fa04
+type: Request
+parentId: fld_00e05112f39a404ea585b8c1088c90c0
+modified: 1650776198203
+created: 1650776195133
+url: "{{ _.baseUrl }}/tipoarchivos/3"
+name: delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1648256780916
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

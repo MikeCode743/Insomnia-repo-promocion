@@ -1,0 +1,29 @@
+_id: req_c5be535f3528440394a7ff3bb44c53bf
+type: Request
+parentId: fld_09daef625ec44650940c312127c5cf23
+modified: 1650835728083
+created: 1650831830183
+url: "{{ _.baseUrl }}/establecimiento/8"
+name: delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"activo": false
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6f889e180c2c43aca38162a2d90ed2f6
+authentication: {}
+metaSortKey: -1648256780916
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

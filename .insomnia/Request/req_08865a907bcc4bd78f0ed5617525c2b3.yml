@@ -1,0 +1,21 @@
+_id: req_08865a907bcc4bd78f0ed5617525c2b3
+type: Request
+parentId: fld_00e05112f39a404ea585b8c1088c90c0
+modified: 1650774396880
+created: 1648256781066
+url: "{{ _.baseUrl }}/tipoarchivos"
+name: index
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1648256781066
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

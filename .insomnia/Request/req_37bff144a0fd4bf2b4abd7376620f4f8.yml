@@ -1,0 +1,34 @@
+_id: req_37bff144a0fd4bf2b4abd7376620f4f8
+type: Request
+parentId: fld_7699abd41c54458d9bc26831d6fb052e
+modified: 1650836477626
+created: 1650835998565
+url: "{{ _.baseUrl }}/sucursal"
+name: store
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Sucursal 1",
+    	"descripcion": "Descripcion de la Sucursal",
+    	"direccion": "Av. 1, Edificio 4",
+    	"id_establecimiento": 1,
+    	"id_departamento": 6,
+    	"id_municipio": 68
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5702570b87414e338c237b61db58e08d
+authentication: {}
+metaSortKey: -1648256781016
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

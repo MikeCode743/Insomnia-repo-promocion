@@ -1,0 +1,29 @@
+_id: req_0e4454465b10433baca4f7ced759bce7
+type: Request
+parentId: fld_d518cd311cc34bde9ac928176d743364
+modified: 1650858427001
+created: 1650858082362
+url: "{{ _.baseUrl }}/categoria/1"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nombre": "Categoria 1"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_06364d65be5b479a9416495ac403ecc3
+authentication: {}
+metaSortKey: -1648256780941
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_ae9cc5d395d44c6a8b95281f6fac64f5
+type: Request
+parentId: fld_e43340df561e489ca118f69305ad1b54
+modified: 1650839103425
+created: 1650839082573
+url: "{{ _.baseUrl }}/promocion/1"
+name: delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"activo": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6f889e180c2c43aca38162a2d90ed2f6
+authentication: {}
+metaSortKey: -1648256780916
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
